@@ -1,0 +1,13 @@
+node_modules/
+www/assets/css/*
+www/assets/js/*
+www/kirby/**/*
+www/content/**/*
+!www/content/.gitkeep
+www/media/**/*
+www/site/accounts/*
+www/site/sessions/*
+www/site/cache/*
+.idea
+.DS_store
+.vs_code

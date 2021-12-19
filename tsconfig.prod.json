@@ -1,0 +1,15 @@
+{
+  "files": ["./src/libs/lazyload.js"],
+  "include": ["./src/js/script.ts"],
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "amd",
+    "rootDir": "./src",
+    "baseUrl": "./",
+    "outFile": "./www/assets/js/bundle.js",
+    "allowJs": true,
+    "inlineSourceMap": false,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
